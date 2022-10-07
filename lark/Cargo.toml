@@ -8,6 +8,8 @@ edition = "2021"
 [dependencies]
 # for editor
 ropey = "1.5"
+chardetng = "0.1.17"
+encoding_rs = "0.8"
 unicode-segmentation = "1.10"
 unicode-width = "0.1"
 unicode-general-category = "0.5"
@@ -24,3 +26,4 @@ alacritty_terminal = "0.16"
 log = "0.4"
 smallvec = "1.9"
 smartstring = "1.0.1"
+anyhow = "1.0"
